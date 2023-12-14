@@ -18,7 +18,7 @@ Clone the repository to your local machine.
 
 bash
 Copy code
-git clone https://github.com/your-username/rupiyeah.git
+git clone https://github.com/Ameeeek/rupiyeah.git
 Open the project in your preferred Python environment.
 
 Run the application from the command line using Python.
